@@ -11,8 +11,8 @@
           "submit"
         ]
       },
-      "selector": "text.username",
-      "control": "text"
+      "control": "text",
+      "selector": "[name=\"username\"]"
     },
     "password": {
       "type": "string",
