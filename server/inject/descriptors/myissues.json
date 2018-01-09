@@ -21,6 +21,11 @@
           }
         }
       }
+    },
+    "isMyIssues": {
+      "type": "identifier",
+      "selector": "html",
+      "control": "url view_all_bug_page.php"
     }
   },
   "connect": []
