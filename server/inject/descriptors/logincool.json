@@ -31,7 +31,8 @@
       "label": "errorMessage",
       "update": {
         "type": "none"
-      }
+      },
+      "selectContains": "Admin directory should be removed"
     },
     "submit": {
       "type": "action",
