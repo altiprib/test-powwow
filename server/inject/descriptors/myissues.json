@@ -1,5 +1,25 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "Issulist": {
+      "type": "array",
+      "selectorAll": "body",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "selector": "body",
+            "control": "property.innerText"
+          },
+          "summary": {
+            "type": "string",
+            "selector": "body",
+            "control": "property.innerText"
+          }
+        }
+      }
+    }
+  },
   "connect": []
 }
