@@ -36,13 +36,18 @@
           "type": "string"
         }
       },
-      "selector": "input.submit",
+      "selector": ".button",
       "control": "action.link"
     },
     "errorMessage": {
       "type": "string",
       "control": "property.innerText",
       "selector": "font"
+    },
+    "isLogin": {
+      "type": "identifier",
+      "selector": ".body",
+      "control": "exists"
     }
   },
   "connect": []
