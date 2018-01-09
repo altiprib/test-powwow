@@ -38,6 +38,11 @@
       },
       "selector": "input.submit",
       "control": "action.link"
+    },
+    "errorMessage": {
+      "type": "string",
+      "control": "property.innerText",
+      "selector": "font"
     }
   },
   "connect": []
