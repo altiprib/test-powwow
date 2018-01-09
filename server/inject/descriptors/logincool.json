@@ -33,7 +33,7 @@
         "type": "none"
       },
       "selectContains": "Admin directory should be removed",
-      "control": "text",
+      "control": "property.innerText",
       "selector": "strong"
     },
     "submit": {
