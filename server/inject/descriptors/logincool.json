@@ -39,11 +39,6 @@
       "selector": ".button",
       "control": "action.link"
     },
-    "errorMessage": {
-      "type": "string",
-      "control": "property.innerText",
-      "selector": "font"
-    },
     "isLogin": {
       "type": "identifier",
       "selector": ".body",
