@@ -32,7 +32,8 @@
       "update": {
         "type": "none"
       },
-      "selectContains": "Admin directory should be removed"
+      "selectContains": "Admin directory should be removed",
+      "control": "text"
     },
     "submit": {
       "type": "action",
