@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "properties": {
+    "isLanding": {
+      "type": "identifier",
+      "selector": ".subtle",
+      "control": "exist",
+      "selectContains": "Assigned to Me"
+    }
+  },
+  "connect": []
+}
