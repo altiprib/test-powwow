@@ -26,16 +26,6 @@
       "selector": "[name=\"password\"]",
       "control": "text"
     },
-    "errorMessage": {
-      "type": "string",
-      "label": "errorMessage",
-      "update": {
-        "type": "none"
-      },
-      "selectContains": "Admin directory should be removed",
-      "control": "property.innerText",
-      "selector": "strong"
-    },
     "submit": {
       "type": "action",
       "parameters": {
