@@ -4,7 +4,7 @@
     "isLanding": {
       "type": "identifier",
       "selector": ".subtle",
-      "control": "exist",
+      "control": "exists",
       "selectContains": "Assigned to Me"
     }
   },
