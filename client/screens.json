@@ -32,13 +32,6 @@
       "id": "myissues",
       "name": "myissues",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank",
-      "model": "myissues"
-    },
-    {
-      "id": "myissues",
-      "name": "myissues",
-      "sourceScreenId": "app.blank",
       "sourceAppId": "_blank"
     }
   ],
